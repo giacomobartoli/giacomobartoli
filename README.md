@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**giacomobartoli/giacomobartoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Shaping a better world one commit at time 👨🏻‍💻
 
-Here are some ideas to get you started:
+Key-skills:
+- Node js and Typescript
+- MongoDB and NoSQL databases
+- Git and Github (of course..)
+- Design and implementation of RESTful APIs
+- TDD and EDD
+- Continous Integration (Travis CI)
+- Orchestration of microservices: Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: send an email at giacomobartoli@aol.com
+
