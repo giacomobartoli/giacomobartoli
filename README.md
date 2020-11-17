@@ -10,5 +10,5 @@ Key-skills:
 - Continous Integration (Travis CI)
 - Orchestration of microservices: Kubernetes
 
-📫 How to reach me: send an email at giacomobartoli@aol.com
+📫  How to reach me: send an email at giacomobartoli@aol.com
 
