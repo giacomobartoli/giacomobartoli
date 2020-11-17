@@ -1,13 +1,12 @@
 
-## Shaping a better world one commit at time 👨🏻‍💻
-
+## Shaping a better world one commit at time 👨🏻‍💻 <img align="right" src="https://github-readme-stats.vercel.app/api?username=giacomobartoli&show_icons=true&count_private=true&hide_border=true&hide=stars" alt="giacomobartoli" /> 
 Key-skills:
 - Node js and Typescript
+- Tensorflow and Keras
 - MongoDB and NoSQL databases
-- Git and Github (of course..)
+- Git CLI and Github (of course..)
 - Design and implementation of RESTful APIs
-- TDD and EDD
-- Continous Integration (Travis CI)
+- Continuous Integration (Travis CI)
 - Orchestration of microservices: Kubernetes
 
 #### Follow me
